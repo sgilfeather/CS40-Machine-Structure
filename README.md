@@ -1,4 +1,4 @@
-# CS40: Machine Structure and Programming in C
+# CS40: Machine Structure and Programming
 
 Assembly programming and low-level memory management in C, for the course CS40: Machine Structure and Programming. Included in this repo are projects completed for this course, including...
 - `locality`: A PPM image rotator, which stores PPM pixels in cached blocks to optimize image transformations.
