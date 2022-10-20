@@ -1,6 +1,6 @@
 # CS40: Machine Structure and Programming
 
-Assembly programming and low-level memory management in C, for the course CS40: Machine Structure and Programming. Included in this repo are projects completed for this course, including...
+Assembly programming and low-level memory management in C, for the course CS40: Machine Structure and Programming. Included in this repo are projects completed for this course, including:
 - `locality`: A PPM image rotator, which stores PPM pixels in cached blocks to optimize image transformations.
 - `arith`: A lossy PPM image compressor, which converts full-color PPM images into compressed binary files.
 - `cs40-um`: An interpreter that processes and executes bytecode for a unique, Turing-Complete assembly language, the `UM`.
