@@ -1,0 +1,15 @@
+[submodule "locality"]
+	path = locality
+	url = https://github.com/kenziesimpson/locality
+[submodule "arith"]
+	path = arith
+	url = https://github.com/sgilfeather/arith
+[submodule "cs40-um"]
+	path = cs40-um
+	url = https://github.com/jacklowrie/cs40-um
+[submodule "cs40-profiling"]
+	path = cs40-profiling
+	url = https://github.com/jacklowrie/cs40-profiling
+[submodule "cs40-asmcoding"]
+	path = cs40-asmcoding
+	url = https://github.com/sgilfeather/cs40-asmcoding
