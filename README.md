@@ -7,4 +7,4 @@ Assembly programming and low-level memory management in C, for the course CS40: 
 - `c40-profiling`: A progressive optimization of the `UM`, eliminating wrapper modules and abstract data types, to run in **5.5%** of the original time.
 - `cs40-asmcoding`: A RPN (Reverse-Polish Notation) calculator, implemented in a **macro language** for the `UM` assembly language.
 
-For the sake of academic integrity, I unfortunately can't make my code for these projects public. However, I can share their specifications and design documents here. If you (a recruiter, a curious developer, etc.) would like to see the source code, shoot me an email at **skylar.gilfeather@gmail.com**. I'd be very happy to share my work with you!
+For the sake of academic integrity, I unfortunately can't make my code for these projects public. However, I can share their specifications and design documents here. If you (a recruiter, a curious developer, etc.) would like to see the source code, please reach out. I'd be very happy to share my work with you!
